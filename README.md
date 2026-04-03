@@ -25,7 +25,6 @@ Le projet permet de :
 * analyser des scénarios de stress
 * décomposer la contribution au risque par actif
 
----
 
 ## Actifs étudiés
 
@@ -39,7 +38,6 @@ Le portefeuille étudié comprend plusieurs actifs :
 * S&P 500 (^GSPC)
 * Euro Stoxx 50 (^STOXX50E)
 
----
 
 ## Visualisations
 
@@ -53,7 +51,6 @@ Le notebook inclut plusieurs visualisations permettant d’interpréter le risqu
 * VaR et Expected Shortfall
 * contribution au risque
 
----
 
 ## Technologies utilisées
 
@@ -65,7 +62,6 @@ Le notebook inclut plusieurs visualisations permettant d’interpréter le risqu
 * yfinance
 * Jupyter Notebook
 
----
 
 ## Évolution du projet
 
@@ -79,13 +75,11 @@ Les évolutions prévues incluent :
 * optimisation du portefeuille
 * interface utilisateur (Streamlit)
 
----
 
 ## Objectif
 
 Ce projet s’inscrit dans une démarche personnelle d’apprentissage en **finance quantitative et gestion des risques**, avec une application aux problématiques de gestion de portefeuille.
 
----
 
 ## Auteur
 
