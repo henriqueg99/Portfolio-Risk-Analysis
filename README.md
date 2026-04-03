@@ -8,7 +8,6 @@ L’objectif est d’analyser le profil de risque d’un portefeuille multi-acti
 
 Cette première version se concentre sur la construction d’un **moteur d’analyse du risque** et la visualisation des résultats.
 
----
 
 ## Fonctionnalités principales
 
